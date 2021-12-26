@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![](codingAI.gif)![](codingAI.gif)
+ ![](codingAI.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 <!--
 **Juamedrod/Juamedrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
