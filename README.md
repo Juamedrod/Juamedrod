@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--  ![](codingAI.gif){ width="800" height="600" style="display: block; margin: 0 auto" } -->
 <p align="center" width="100%">
-    <img width="33%" src="codingAI.gif">
+    <img width="100%" src="codingAI.gif">
 </p>
 
 <!--
