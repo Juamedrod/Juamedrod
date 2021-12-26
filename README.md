@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Juan Miguel, welcome to my personal Github. Here you can find everything I develop for fun, from a IoT platform based on web tech to a Fantasy card game developed with Angular and Socket IO. Have fun and enjoy the ride!
 <!--  ![](codingAI.gif){ width="800" height="600" style="display: block; margin: 0 auto" } -->
 <p align="center" width="100%">
     <img width="100%" src="codingAI.gif">
