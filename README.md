@@ -12,10 +12,7 @@
 
 [linkedin]: https://www.linkedin.com/in/juan-miguel-medina-rodriguez-082635127/
 
----
-<p align="center" width="100%">
-    <img width="100%" src="codingAI.gif">
-</p>
+
 
 <!--
 **Juamedrod/Juamedrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
