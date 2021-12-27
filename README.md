@@ -2,7 +2,7 @@
 ## Welcome to my personal Github. Here you can find everything I develop for fun, from an IoT platform based on web tech to a Fantasy card game developed with Angular and Socket IO. Have fun and enjoy the ride!
 <!--  ![](codingAI.gif){ width="800" height="600" style="display: block; margin: 0 auto" } -->
 <p align="center" width="100%">
-    <img width="100%" src="codingAI.gif">
+    <img width="100%" src="banner.gif">
 </p>
 
 ---
@@ -11,6 +11,11 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/juan-miguel-medina-rodriguez-082635127/
+
+---
+<p align="center" width="100%">
+    <img width="100%" src="codingAI.gif">
+</p>
 
 <!--
 **Juamedrod/Juamedrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
